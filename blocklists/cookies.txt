@@ -1,0 +1,5 @@
+google-analytics.com
+doubleclick.net
+facebook.net
+scorecardresearch.com
+quantserve.com

@@ -1,0 +1,13 @@
+paypal.com.secure-login.verify-account.com
+bankofamerica.com.security-update.com
+login.microsoftonline.com.account-verification.com
+secure-chase.com-update.com
+appleid.apple.com-verification.com
+amazon.com.login-securely.com
+facebook.com.security-alert.com
+secure-payment-verification.com
+yahoo.com.account-security-update.com
+google.com.account-verification.com
+wellsfargo.com-secure-update.com
+citibank.com-security-notice.com
+phishingtestsite.com

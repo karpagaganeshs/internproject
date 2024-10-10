@@ -1,0 +1,31 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+  background-color: #1e1e2f;
+  color: #f0f0f0;
+  margin: 0;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.tracker-detail {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ff4081;
+  border-radius: 10px;
+  background-color: #2e2e4d;
+  color: #f0f0f0;
+}
+
+h1 {
+  font-size: 1.8em;
+  color: #ff4081;
+  text-align: center;
+}
+
+#tracker-detail-container {
+  margin-top: 20px;
+}
